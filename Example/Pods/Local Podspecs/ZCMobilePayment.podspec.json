@@ -1,0 +1,19 @@
+{
+  "name": "ZCMobilePayment",
+  "version": "0.1.0",
+  "summary": "A short description of ZCMobilePayment.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/ZCMobilePayment",
+  "license": "MIT",
+  "authors": {
+    "Winter-Yang": "362694311@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/ZCMobilePayment.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZCMobilePayment/Classes/**/*"
+}

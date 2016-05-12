@@ -1,0 +1,6 @@
+framework module Pods_ZCMobilePayment_Tests {
+  umbrella header "Pods-ZCMobilePayment_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module ZCMobilePayment {
+  umbrella header "ZCMobilePayment-umbrella.h"
+
+  export *
+  module * { export * }
+}
